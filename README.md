@@ -1,5 +1,7 @@
 # SvelteKit remote functions with deno-adapter
 
+> Repo set up as example for [this issue](https://github.com/denoland/svelte-adapter/issues/7)
+
 Example repository for issue using Svelte's [remote functions](https://svelte.dev/docs/kit/remote-functions) with the [deno-adapter](https://github.com/denoland/svelte-adapter).
 
 ## Get started
