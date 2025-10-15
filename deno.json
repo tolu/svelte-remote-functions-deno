@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "build-and-run": "deno task build && deno run -A .deno-deploy/server.ts"
+  }
+}
